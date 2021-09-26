@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to Noor Hasan Portfolio 
 
-You can use the [editor on GitHub](https://github.com/NoorHasanAlsayed/Noor-s_Portfolio-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a passionate web developer with a special interest for data science and the power it can have on anorganization!
+Here I will show the magic of programming and the fascinating Data studies that I can make by applying my skills. These projects are some of my work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NoorHasanAlsayed/Noor-s_Portfolio-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [Food Truck Tracker](https://github.com/NoorHasanAlsayed/Food-Truck-Tracker/index.md)
+Food Truck Tracker is a project to find the location of food trucks and find their information. The app allows the customers to rate the food truck. Build using Laravel, HTML, bootstrap, and Javascript. It uses Google Maps API to identify user locations.
